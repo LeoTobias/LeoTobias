@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5d0aaf&section=header&text=Leonardo%20Tobias&fontSize=40&fontColor=346e99&fontAlignY=45&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5d0aaf&section=header&text=Leonardo%20Tobias&fontSize=40&fontColor=a975dd&fontAlignY=45&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=60&animation=fadeIn" />
 
 <p>
 Olá, meu nome é Leonardo, sou um profissional de tecnologia com experiência em desenvolvimento front-end e back-end, além de conhecimentos sólidos em PHP, MYSQL, HTML5, JAVASCRIPT e CSS. 
